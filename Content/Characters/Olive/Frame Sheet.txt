@@ -1,0 +1,9 @@
+Frames 0 - 30 = Idle Animation
+Frames 100 - 132 = Walking Animation
+Frames 200 - 224 = Running Animation
+Frames 300 - 312 = Crouch Animation
+Frames 400 - 424 = Crouch Walk Animation
+Frames 500 - 525 = Jump Animation
+Frames 600 - 610 = Damage Animation
+Frames 700 - 724 = Death/Defeat Animation
+Frames 800 - 820 = Slashing Attack Animation
